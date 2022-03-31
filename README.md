@@ -1,1 +1,1 @@
-# numerical_analysis
+This repository is composed of algorithms that I worked on while enrolled in a Numerical Linear Algebra course at Salisbury University. I have one file containing just the algortithms. In the other name (with exmaples) I have worked with the same code in Goog Colab, returning outputs to show some examples of how the algorithms and computations execute.
